@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">TourGuideUdacity</string>
+    <string name="museumA">Downtown Museum</string>
+    <string name="museumB">Uptown Museum</string>
+    <string name="museumC">Natural History Museum</string>
+    <string name="museumTypeA">Old fashioned exhibits</string>
+    <string name="museumTypeB">Modern stuff</string>
+    <string name="museumTypeC">Science</string>
+    <string name="museumTypeD">Avante Guarde</string>
+    <string name="museumD">New Museum</string>
+    <string name="RiverA">Western River</string>
+    <string name="RiverB">North River</string>
+    <string name="RiverC">Old Winding River</string>
+    <string name="RiverD">Mystic River</string>
+    <string name="RiverAType">Saltwater, fast moving</string>
+    <string name="RiverBType">Fresh water, calm</string>
+    <string name="RiverCType">Saltwater, calm</string>
+    <string name="RiverDType">Fresh water, rocky</string>
+    <string name="HikingA">Tall Mountain</string>
+    <string name="HikingB">Short Mountain</string>
+    <string name="HikingC">Deep Mountain</string>
+    <string name="HikingD">Ravine Mountain</string>
+    <string name="HikingLenghtA">12 miles</string>
+    <string name="HikingLenghtB">11 miles</string>
+    <string name="HikingLenghtC">15 miles</string>
+    <string name="HikingLenghtD">22 miles</string>
+    <string name="RestA">HomeMeal Inn</string>
+    <string name="RestB">Filling Resturant</string>
+    <string name="RestC">Fancy Resturant</string>
+    <string name="RestTypeA">$25 average price</string>
+    <string name="RestTypeB">$15 average price</string>
+    <string name="RestTypeC">$40 average price</string>
+
+
+</resources>
